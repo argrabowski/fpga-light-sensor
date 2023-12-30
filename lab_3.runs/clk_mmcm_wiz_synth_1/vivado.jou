@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Oct  2 19:34:20 2022
+# Process ID: 12008
+# Current directory: C:/Users/Adam/Desktop/ECE 3829/Lab 3/lab_3/lab_3.runs/clk_mmcm_wiz_synth_1
+# Command line: vivado.exe -log clk_mmcm_wiz.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_mmcm_wiz.tcl
+# Log file: C:/Users/Adam/Desktop/ECE 3829/Lab 3/lab_3/lab_3.runs/clk_mmcm_wiz_synth_1/clk_mmcm_wiz.vds
+# Journal file: C:/Users/Adam/Desktop/ECE 3829/Lab 3/lab_3/lab_3.runs/clk_mmcm_wiz_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_mmcm_wiz.tcl -notrace
